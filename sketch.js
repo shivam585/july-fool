@@ -24,7 +24,7 @@ fill("orange")
 textSize(50)
 stroke("yellow")
 textFont("Algerian")
-text(" JULY FOOL............" ,width/3,height/1)
+text(" JULY FOOL............" ,width/3,height/1.4)
 
 
 if(frameCount%10===0){
